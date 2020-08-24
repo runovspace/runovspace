@@ -39,4 +39,4 @@
 Габариты|800х430х470 мм|
 Масса, не более|250 – 300 кг|
 
-![Photo](images/rps.png)
+![RPS photo](images/rps.jpg)
